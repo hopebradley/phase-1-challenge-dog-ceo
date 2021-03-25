@@ -76,4 +76,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
     dropDownMenu.addEventListener('change', chooseLetter);
 
+    
 });
